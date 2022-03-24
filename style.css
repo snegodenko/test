@@ -12,3 +12,7 @@ h1 {
 h2 {
 	font-size: 30px;
 }
+.blog-content {
+	width: 100%;
+	padding:  0 15px;
+}
